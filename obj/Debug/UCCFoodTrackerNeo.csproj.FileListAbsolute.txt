@@ -12,3 +12,17 @@ C:\Users\NeoKyle\Desktop\WinForms Acts\UCCFoodTrackerNeo\obj\Debug\UCCFoodTracke
 C:\Users\NeoKyle\Desktop\WinForms Acts\UCCFoodTrackerNeo\obj\Debug\UCCFoodTrackerNeo.CartPage.resources
 C:\Users\NeoKyle\Desktop\WinForms Acts\UCCFoodTrackerNeo\obj\Debug\UCCFoodTrackerNeo.StorePage.resources
 C:\Users\NeoKyle\Desktop\WinForms Acts\UCCFoodTrackerNeo\obj\Debug\UCCFoodTrackerNeo.userFood.resources
+C:\Users\whenu\Source\Repos\Cart-System\bin\Debug\UCCFoodTrackerNeo.exe.config
+C:\Users\whenu\Source\Repos\Cart-System\bin\Debug\UCCFoodTrackerNeo.exe
+C:\Users\whenu\Source\Repos\Cart-System\bin\Debug\UCCFoodTrackerNeo.pdb
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.csproj.AssemblyReference.cache
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.CartPage.resources
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.FoodPage.resources
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.MainPage.resources
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.Properties.Resources.resources
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.StorePage.resources
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.userFood.resources
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.csproj.GenerateResource.cache
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.csproj.CoreCompileInputs.cache
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.exe
+C:\Users\whenu\Source\Repos\Cart-System\obj\Debug\UCCFoodTrackerNeo.pdb
